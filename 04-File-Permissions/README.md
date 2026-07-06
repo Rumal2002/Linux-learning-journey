@@ -1,4 +1,4 @@
-#  Module 04 - Linux File Permissions
+#  Day 04 - Linux File Permissions
 
 ##  Objective
 
