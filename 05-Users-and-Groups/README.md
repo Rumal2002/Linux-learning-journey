@@ -1,4 +1,4 @@
-#  Module 05 - Linux Users & Groups
+#  Day 05 - Linux Users & Groups
 
 ##  Objective
 
